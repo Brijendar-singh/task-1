@@ -1,0 +1,31 @@
+Writing codes without conventions and standards can easily become messy and unmaintainable for a large codebase. When working as a team, it is crucial to set rules and guidelines that each member on the development team must follow to ensure that the product is reliable and consistently maintained. In order to write well-structured and clean code, developers need to get aligned with the standards and conventions used in their teams. This eases the understanding of the code for any developers who gets on the codebase.
+Good quality code requires consistent effort and a great focus from the developers’ team to meet the quality goal. Without conventions, it can be difficult for developers to understand the codebase and it can increase the development time as well as the complexity of the project structure.
+
+
+Coding standards
+
+Coding standards are collections of rules and guidelines that determine the programming style, procedures, and methods for a programming language.
+Importance of coding conventions
+Without the coding conventions, every individual in a team will settle their coding styles. It will not be easy to maintain and debug the code in the near future.
+
+Benefits of coding standards
+
+Easy team integration
+Increased code quality efficiency and easy for maintaining
+Reduce code complexity
+Reduce development cost
+Drawbacks of not having proper coding conventions for a team
+Without predefined conditions that all team member should follow can result in the following:
+Reduced engineers motivation
+Increased development time
+Complex codebase structure
+
+Common Aspects of Coding Standard :
+
+Naming Conventions: The naming convention is how your packages, classes methods, variables, etc. should be named. ( eg. camelCase, PascalCase or snake_case)
+File and folder Naming and Organization: This is how your file and folder should be named and structured
+Formatting and Indentation: the code should be written in a standardized format and indentation
+Commenting and Documenting: This makes it easy for the reviewer of your code to better understand codes methods and declarations
+Classes and Functions: This specifies how classes and functions should behave.
+Testing: This specifies which approach and tools should be used to test the codes
+All in all, it is crucial for a developers’ team to have proper coding conventions and standards to guide them during the development, this will help the team to maintain the code quality and would decrease the time spent by new developers trying to understand the complex codebase.
